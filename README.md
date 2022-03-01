@@ -10,15 +10,6 @@
   <p align="center">
     A Technonogly agency fullstack website build in react, mui , bootstrap and nodejs 
     <br />
-    <a href="https://github.com/Ujjalzaman/Easy-Consulting-react"><strong>Explore the code here »</strong></a>
-    <br />
-    <a href="https://github.com/Ujjalzaman/easy-consult-server-express-mongo"><strong>Backend code here »</strong></a>
-    <br />
-    <a href="https://wonderful-kowalevski-8c905c.netlify.app/">View Demo</a>
-    ·
-    <a href="https://github.com/Ujjalzaman/Easy-Consulting-react/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Ujjalzaman/Easy-Consulting-react/issues">Request Feature</a>
   </p>
 </div>
 
@@ -47,7 +38,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Ujjalzaman/Easy-Consulting-react
+   git clone https://github.com/talentd1223/Easy-Consulting-React.git
    ```
 2. Install NPM packages
    ```sh
@@ -106,9 +97,3 @@ What you get here:
 * payement system(here used only Stripe in near will add more payment gateway)
 * Deffrent for Dasboard(Admin and User)
 * in dashboard Admin has all kinds of access(CRUD operations, add admin, manage orders and many more)
-
-## Contact
-
-ujjal zaman - [Linkdeind](www.linkedin.com/in/ujjal-zaman)
-
-Project Link: [https://github.com/Ujjalzaman/Easy-Consulting-react](https://github.com/Ujjalzaman/Easy-Consulting-react)
